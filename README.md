@@ -3,11 +3,11 @@ Machine Learning notes
 
 
 #Prepare the dataset
-#	get images from google search
+##	Get images from google search
 	google-search.py
-#	Remove duplicate
+##	Remove duplicate
 	duplicated.py
-#	Resize images
+##	Resize images
 Create bash script with:
 '''
 count=0
@@ -17,6 +17,5 @@ do
  ((++count))
 done
 '''
-
-#	Label images
+##	Label images
 	https://github.com/tzutalin/labelImg
