@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>resize104.jpg</filename>
+	<path>/home/pderen/data/resized/resize104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>valve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>53</ymin>
+			<xmax>749</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>
