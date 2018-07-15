@@ -2,7 +2,7 @@
 Machine Learning notes
 
 
-#Prepare the dataset
+#	Prepare the dataset
 ##	Get images from google search
 	google-search.py
 ##	Remove duplicate
